@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Emmanuel-Gumede/multi-step-form)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://emmanuel-gumede.github.io/multi-step-form/)
 
 ## My process
 
