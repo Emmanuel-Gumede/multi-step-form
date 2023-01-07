@@ -9,7 +9,7 @@ const initFormValues = {
   fullname: '',
   email: '',
   phone: '',
-  plan: '',
+  plan: 'arcade,$90/yr',
   add1: false,
   add2: false,
   add3: false,
